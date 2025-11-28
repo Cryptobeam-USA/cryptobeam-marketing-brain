@@ -1,0 +1,15 @@
+{
+  "name": "cryptobeam-marketing-brain",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Add your dev server (Vite/Next/CRA) here'",
+    "build": "echo 'Add your bundler build command here'",
+    "lint": "echo 'Add eslint/biome command here'",
+    "test": "echo 'Add vitest/jest command here'"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
